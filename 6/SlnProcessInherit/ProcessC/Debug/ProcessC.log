@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ProcessC.cpp
+c:\users\ш\documents\visual studio 2015\projects\slnprocessinherit\processc\processc.cpp(23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\ш\documents\visual studio 2015\projects\slnprocessinherit\processc\processc.cpp(46): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  ProcessC.vcxproj -> c:\users\ш\documents\visual studio 2015\Projects\SlnProcessInherit\Debug\ProcessC.exe

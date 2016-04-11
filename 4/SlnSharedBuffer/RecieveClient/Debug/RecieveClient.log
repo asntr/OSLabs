@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RecieveClientDlg.cpp
+  RecieveClient.cpp
+  Generating Code...
+RecieveClient.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  RecieveClient.vcxproj -> C:\Users\ш\Documents\Visual Studio 2008\Projects\OS\SlnSharedBuffer\Debug\RecieveClient.exe
