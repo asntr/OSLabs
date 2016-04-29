@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SharedBufferDll", "SharedBufferDll\SharedBufferDll.vcxproj", "{0126D7EC-B91E-4326-A263-17E00867D197}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SendClient", "SendClient\SendClient.vcxproj", "{305718DC-E057-4663-9964-21CB6CEC67BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecieveClient", "RecieveClient\RecieveClient.vcxproj", "{232D5C0E-F629-4A11-9877-977D2B313879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0126D7EC-B91E-4326-A263-17E00867D197}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0126D7EC-B91E-4326-A263-17E00867D197}.Debug|Win32.Build.0 = Debug|Win32
+		{0126D7EC-B91E-4326-A263-17E00867D197}.Release|Win32.ActiveCfg = Release|Win32
+		{0126D7EC-B91E-4326-A263-17E00867D197}.Release|Win32.Build.0 = Release|Win32
+		{305718DC-E057-4663-9964-21CB6CEC67BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{305718DC-E057-4663-9964-21CB6CEC67BA}.Debug|Win32.Build.0 = Debug|Win32
+		{305718DC-E057-4663-9964-21CB6CEC67BA}.Release|Win32.ActiveCfg = Release|Win32
+		{305718DC-E057-4663-9964-21CB6CEC67BA}.Release|Win32.Build.0 = Release|Win32
+		{232D5C0E-F629-4A11-9877-977D2B313879}.Debug|Win32.ActiveCfg = Debug|Win32
+		{232D5C0E-F629-4A11-9877-977D2B313879}.Debug|Win32.Build.0 = Debug|Win32
+		{232D5C0E-F629-4A11-9877-977D2B313879}.Release|Win32.ActiveCfg = Release|Win32
+		{232D5C0E-F629-4A11-9877-977D2B313879}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
