@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  SendClientDlg.cpp
-  SendClient.cpp
-  Generating Code...
-SendClient.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  SendClient.vcxproj -> C:\Users\ш\Documents\Visual Studio 2008\Projects\OS\SlnSharedBuffer\Debug\SendClient.exe

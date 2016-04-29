@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  dllmain.cpp
-  SharedBufferDll.cpp
-dllmain.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-     Creating library C:\Users\ш\Documents\Visual Studio 2008\Projects\OS\SlnSharedBuffer\Debug\SharedBufferDll.lib and object C:\Users\ш\Documents\Visual Studio 2008\Projects\OS\SlnSharedBuffer\Debug\SharedBufferDll.exp
-  SharedBufferDll.vcxproj -> C:\Users\ш\Documents\Visual Studio 2008\Projects\OS\SlnSharedBuffer\Debug\SharedBufferDll.dll
